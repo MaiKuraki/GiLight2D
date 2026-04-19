@@ -12,9 +12,6 @@ GiLight can be used both for conventional lighting and to create stylized visual
 WebGl TechArt Sandbox <br>
 • https://nulltale.itch.io/light-room <br>
 
-Dontations for project support and RenderGraph compatibility <br>
-• https://boosty.to/nulltale/single-payment/donation/641586/target?share=target_link
-
 
 ![Gif](https://github.com/NullTale/GiLight2D/assets/1497430/d5eb3708-93e0-462a-829e-6931863ad2ad)
 
